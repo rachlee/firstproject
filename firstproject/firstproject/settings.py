@@ -15,7 +15,7 @@ import os
 import sys
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
-BASE_DIR = Path(__file__).resolve().parent.parent
+BASE_DIR = Path(__file__).resolve().parent.parent1
 #BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath("/Users/rachie/Documents/python-projects/Web-Project/firstproject")))
 
 #print(f"python: {python}")
